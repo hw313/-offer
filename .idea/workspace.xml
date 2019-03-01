@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1f0ebc8f-3420-4ca3-a008-4f650e728b1c" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="1f0ebc8f-3420-4ca3-a008-4f650e728b1c" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,20 +20,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="thirty_nine.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="thirty_nine.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/thirty_nine.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1850">
+            <state relative-caret-position="1288">
               <caret line="74" selection-start-line="74" selection-end-line="77" selection-end-column="60" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="thirty_two.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="thirty_two.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/thirty_two.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="512">
-              <caret line="25" column="33" lean-forward="true" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="33" />
+            <state relative-caret-position="187">
+              <caret line="18" column="71" lean-forward="true" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="71" />
             </state>
           </provider>
         </entry>
@@ -80,7 +78,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="560" />
     <option name="y" value="580" />
     <option name="width" value="940" />
@@ -205,7 +203,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="2062" height="1126" extended-state="6" />
+    <frame x="-7" y="-7" width="2062" height="1126" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24925962" />
@@ -305,17 +303,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/thirty_nine.py">
+    <entry file="file://$PROJECT_DIR$/thirty_two.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1850">
-          <caret line="74" selection-start-line="74" selection-end-line="77" selection-end-column="60" />
+        <state relative-caret-position="187">
+          <caret line="18" column="71" lean-forward="true" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="71" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/thirty_two.py">
+    <entry file="file://$PROJECT_DIR$/thirty_nine.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="512">
-          <caret line="25" column="33" lean-forward="true" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="33" />
+        <state relative-caret-position="1288">
+          <caret line="74" selection-start-line="74" selection-end-line="77" selection-end-column="60" />
         </state>
       </provider>
     </entry>
