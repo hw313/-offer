@@ -9,10 +9,11 @@
 > 第39题，判断是否为平衡二叉树。容易想到的方法是从上往下，判断左右子树的高度差是否<=1，然后继续递归判断左右子树 ，但是会有重复
 因此考虑从下往上，如果子树非平衡二叉树即返回false，不需要进行判断
 判断数的高度的代码如下:
-```
+>```
 def get_depth(root):
 	if root is None:
 		return 0
 	return max(get_depth(root.left), get_depth(root.right))+1
 ```
+
 
