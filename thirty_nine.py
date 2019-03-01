@@ -65,18 +65,38 @@ def construct_tree():
     node2.left = node2.right = node3.left = node3.right = node4.right = node5.left = node5.right = None
     return root
 
-root = construct_tree()
-xx = Solution()
-print(xx.IsBalanced_Solution(root))
-print(xx.get_depth_parameter(root))
-print(xx.get_depth_parameter(root.left))
-print(xx.get_depth_parameter(root.right))
+# root = construct_tree()
+# xx = Solution()
+# print(xx.IsBalanced_Solution(root))
+# print(xx.get_depth_parameter(root))
+# print(xx.get_depth_parameter(root.left))
+# print(xx.get_depth_parameter(root.right))
 
 def get_depth(root):
     if root is None:
         return  0
     return max(get_depth(root.left),get_depth(root.right))+1
 
-print(get_depth(root))
-print(get_depth(root.left))
-print(get_depth(root.right))
+# print(get_depth(root))
+# print(get_depth(root.left))
+# print(get_depth(root.right))
+
+
+class Solve:
+    def IsBalanced_Solution(self, p):
+        return self.dfs(p) != -1
+    def dfs(self, p):
+        if p is None:
+            return 0
+        left = self.dfs(p.left)
+        if left == -1:
+            return -1
+        right = self.dfs(p.right)
+        if right == -1:
+            return -1
+        if abs(left - right) > 1:
+            return -1
+        return max(left, right) + 1
+root = construct_tree()
+xx = Solve()
+print(xx.IsBalanced_Solution(root))

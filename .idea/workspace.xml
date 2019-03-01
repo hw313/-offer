@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1f0ebc8f-3420-4ca3-a008-4f650e728b1c" name="Default" comment="" />
+    <list default="true" id="1f0ebc8f-3420-4ca3-a008-4f650e728b1c" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/thirty_nine.py" beforeDir="false" afterPath="$PROJECT_DIR$/thirty_nine.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,8 +25,8 @@
       <file leaf-file-name="thirty_nine.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/thirty_nine.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1288">
-              <caret line="74" selection-start-line="74" selection-end-line="77" selection-end-column="60" />
+            <state relative-caret-position="661">
+              <caret line="97" selection-start-line="97" selection-end-line="97" />
             </state>
           </provider>
         </entry>
@@ -73,12 +75,12 @@
       <list>
         <option value="$PROJECT_DIR$/seventeen.py" />
         <option value="$PROJECT_DIR$/thirty_six.py" />
-        <option value="$PROJECT_DIR$/thirty_nine.py" />
         <option value="$PROJECT_DIR$/thirty_two.py" />
+        <option value="$PROJECT_DIR$/thirty_nine.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="560" />
     <option name="y" value="580" />
     <option name="width" value="940" />
@@ -122,7 +124,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.thirty_two">
+  <component name="RunManager" selected="Python.thirty_nine">
     <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python">
       <module name="剑指offer" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -184,8 +186,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.thirty_two" />
         <item itemvalue="Python.thirty_nine" />
+        <item itemvalue="Python.thirty_two" />
       </list>
     </recent_temporary>
   </component>
@@ -203,19 +205,18 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="2062" height="1126" extended-state="7" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="2062" height="1126" extended-state="6" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24925962" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32760364" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32760364" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3991276" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39838222" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -235,8 +236,13 @@
           <url>file://$PROJECT_DIR$/nineteen.py</url>
           <line>47</line>
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/thirty_nine.py</url>
+          <line>101</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="3" />
+      <option name="time" value="4" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
@@ -312,8 +318,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/thirty_nine.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1288">
-          <caret line="74" selection-start-line="74" selection-end-line="77" selection-end-column="60" />
+        <state relative-caret-position="661">
+          <caret line="97" selection-start-line="97" selection-end-line="97" />
         </state>
       </provider>
     </entry>
